@@ -1,0 +1,79 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:PortSettings.h/l:..?PortSettings.h" caret="280" fromTop="15" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:SerialPortProcessor.h/l:..?SerialPortProcessor.h" caret="22" fromTop="2" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:stdafx.h/l:..?stdafx.h" caret="3388" fromTop="25" />
+      <File id="1E25703D-5823-4967-985E-9A7FC2BA6CB5/f:Program.cs" caret="436" fromTop="15" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:CAN.h/l:..?CAN.h" caret="95" fromTop="0" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:PublicMain.cpp/l:..?PublicMain.cpp" caret="5152" fromTop="0" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:stdafx.cpp/l:..?stdafx.cpp" caret="2043" fromTop="0" />
+      <File id="1E25703D-5823-4967-985E-9A7FC2BA6CB5/f:frmAddPort.cs" caret="1004" fromTop="14" />
+      <File id="1E25703D-5823-4967-985E-9A7FC2BA6CB5/f:frmMain.cs" caret="3764" fromTop="10" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:SerialPortProcessor.cpp/l:..?SerialPortProcessor.cpp" caret="9138" fromTop="15" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:CANPortProcessor.cpp/l:..?CANPortProcessor.cpp" caret="138" fromTop="12" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:CANPortProcessor.cpp/l:..?CANPortProcessor.cpp" caret="6314" fromTop="30" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:CANPortProcessor.cpp/l:..?CANPortProcessor.cpp" caret="5070" fromTop="12" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:CANPortProcessor.cpp/l:..?CANPortProcessor.cpp" caret="5066" fromTop="19" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:CANPortProcessor.cpp/l:..?CANPortProcessor.cpp" caret="7759" fromTop="30" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:CANPortProcessor.cpp/l:..?CANPortProcessor.cpp" caret="7930" fromTop="38" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:CANPortProcessor.cpp/l:..?CANPortProcessor.cpp" caret="5125" fromTop="16" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:CANPortProcessor.cpp/l:..?CANPortProcessor.cpp" caret="7696" fromTop="23" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:CANPortProcessor.cpp/l:..?CANPortProcessor.cpp" caret="5469" fromTop="17" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:CANPortProcessor.cpp/l:..?CANPortProcessor.cpp" caret="8718" fromTop="24" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:CANPortProcessor.cpp/l:..?CANPortProcessor.cpp" caret="9630" fromTop="36" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:CANPortProcessor.cpp/l:..?CANPortProcessor.cpp" caret="9047" fromTop="18" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:CANPortProcessor.cpp/l:..?CANPortProcessor.cpp" caret="9571" fromTop="33" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:CANPortProcessor.cpp/l:..?CANPortProcessor.cpp" caret="9057" fromTop="42" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:CANPortProcessor.cpp/l:..?CANPortProcessor.cpp" caret="9312" fromTop="37" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:CANPortProcessor.cpp/l:..?CANPortProcessor.cpp" caret="6854" fromTop="7" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:CANPortProcessor.cpp/l:..?CANPortProcessor.cpp" caret="6854" fromTop="14" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:CANPortProcessor.cpp/l:..?CANPortProcessor.cpp" caret="8377" fromTop="35" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:CANPortProcessor.cpp/l:..?CANPortProcessor.cpp" caret="8505" fromTop="31" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:CAN.h/l:..?CAN.h" caret="41" fromTop="3" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:CAN.h/l:..?CAN.h" caret="4119" fromTop="49" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:CANPortProcessor.cpp/l:..?CANPortProcessor.cpp" caret="5421" fromTop="20" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:CANPortProcessor.cpp/l:..?CANPortProcessor.cpp" caret="6530" fromTop="24" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:CANPortProcessor.cpp/l:..?CANPortProcessor.cpp" caret="7540" fromTop="24" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:CANPortProcessor.cpp/l:..?CANPortProcessor.cpp" caret="5000" fromTop="3" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:CANPortProcessor.cpp/l:..?CANPortProcessor.cpp" caret="4574" fromTop="7" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:CANPortProcessor.cpp/l:..?CANPortProcessor.cpp" caret="8327" fromTop="32" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:CANPortProcessor.cpp/l:..?CANPortProcessor.cpp" caret="8348" fromTop="34" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:SerialPortProcessor.cpp/l:..?SerialPortProcessor.cpp" caret="7741" fromTop="8" />
+      <File id="8C540331-23BA-4002-8978-7174ECA5D081/f:SerialPortProcessor.cpp/l:..?SerialPortProcessor.cpp" caret="8755" fromTop="35" />
+      <File id="1E25703D-5823-4967-985E-9A7FC2BA6CB5/f:frmMain.cs" caret="4638" fromTop="27" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="0" />
+      <Item value="bool" priority="0" />
+      <Item value="if" priority="0" />
+      <Item value="portToRecord" priority="0" />
+      <Item value="else" priority="0" />
+      <Item value="true" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SerialPortRecorder.PortToRecord">
+      <Item value="IsCAN" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
